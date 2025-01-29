@@ -9,14 +9,14 @@ const GlobeIcon = () => {
           className="w-full h-full fill-brand-red"
         >
           {/* Half circle base */}
-          <path d="M10,25 A40,25 0 1,0 90,25" />
+          <path d="M20,25 A30,20 0 1,0 80,25" />
           
           {/* Airplane */}
-          <path d="M75,15 L85,10 L90,15 L85,20 Z" />
+          <path d="M65,18 L75,15 L78,18 L75,21 Z" />
           
           {/* Landmass details */}
-          <path d="M30,20 C35,18 38,22 42,20 C45,18 48,22 52,20" />
-          <path d="M60,25 C65,23 68,27 72,25" />
+          <path d="M35,22 C40,20 45,24 50,22 C55,20 60,24 65,22" />
+          <path d="M45,28 C50,26 55,30 60,28" />
         </svg>
       </div>
     </div>
