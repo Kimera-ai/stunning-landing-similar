@@ -38,8 +38,8 @@ const Index = () => {
           className="bg-brand-red text-white px-12 py-4 rounded-full text-xl font-bold flex items-center gap-2 mx-auto hover:bg-opacity-90 transition-all"
           style={{ direction: "rtl" }}
         >
-          <span>←</span>
           <span>לחצו כאן כדי להתחיל</span>
+          <span>←</span>
         </button>
       </div>
     </div>
