@@ -37,7 +37,7 @@ const Index = () => {
 
         <Button 
           asChild
-          className="bg-brand-red text-white px-12 py-4 rounded-full text-xl font-bold hover:bg-opacity-90 transition-all"
+          className="bg-brand-red text-white px-12 py-4 rounded-full text-xl font-bold flex items-center gap-2 mx-auto hover:bg-opacity-90 transition-all"
           style={{ direction: "rtl" }}
         >
           <a href="https://booth.kimera.ai/event-set/ec9f7b54-7339-4faf-90ba-f12f54cbe3da">
