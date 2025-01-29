@@ -8,8 +8,15 @@ const GlobeIcon = () => {
           viewBox="0 0 100 50"
           className="w-full h-full fill-brand-red"
         >
-          <path d="M50,0 A25,25 0 1,1 50,50 A25,25 0 1,1 50,0 Z" />
-          <path d="M75,25 L90,20 L95,25 L90,30 Z" />
+          {/* Half circle base */}
+          <path d="M10,25 A40,25 0 1,0 90,25" />
+          
+          {/* Airplane */}
+          <path d="M75,15 L85,10 L90,15 L85,20 Z" />
+          
+          {/* Landmass details */}
+          <path d="M30,20 C35,18 38,22 42,20 C45,18 48,22 52,20" />
+          <path d="M60,25 C65,23 68,27 72,25" />
         </svg>
       </div>
     </div>
