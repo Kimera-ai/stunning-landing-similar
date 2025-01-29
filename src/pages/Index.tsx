@@ -34,13 +34,16 @@ const Index = () => {
           </h2>
         </div>
 
-        <button 
-          className="bg-brand-red text-white px-12 py-4 rounded-full text-xl font-bold flex items-center gap-2 mx-auto hover:bg-opacity-90 transition-all"
+        <a 
+          href="https://booth.kimera.ai/event-set/ec9f7b54-7339-4faf-90ba-f12f54cbe3da"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-brand-red text-white px-12 py-4 rounded-full text-xl font-bold flex items-center gap-2 mx-auto hover:bg-opacity-90 transition-all inline-block"
           style={{ direction: "rtl" }}
         >
           <span>לחצו כאן כדי להתחיל</span>
           <span>←</span>
-        </button>
+        </a>
       </div>
     </div>
   );
