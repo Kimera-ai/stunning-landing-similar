@@ -2,7 +2,7 @@ import React from "react";
 
 const Logo = () => {
   return (
-    <div className="inline-block bg-brand-red p-2 rounded">
+    <div className="inline-block">
       <svg 
         version="1.0" 
         xmlns="http://www.w3.org/2000/svg"
@@ -10,7 +10,7 @@ const Logo = () => {
         height="87.000000pt" 
         viewBox="0 0 900.000000 261.000000"
         preserveAspectRatio="xMidYMid meet"
-        className="text-white fill-current"
+        className="fill-brand-red"
       >
         <g transform="translate(0.000000,261.000000) scale(0.100000,-0.100000)"
         stroke="none">
