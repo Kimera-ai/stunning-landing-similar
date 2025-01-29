@@ -23,10 +23,10 @@ const Index = () => {
         <GlobeIcon />
 
         <div className="mb-8">
-          <h1 className="text-5xl font-normal tracking-wide mb-4">
+          <h1 className="text-5xl font-semibold tracking-wide mb-4">
             PERFECT
           </h1>
-          <h1 className="text-5xl font-normal tracking-wide mb-8">
+          <h1 className="text-5xl font-semibold tracking-wide mb-8">
             HAIR CARE
           </h1>
           <h2 className="text-3xl font-bold mt-2" style={{ direction: "rtl" }}>
