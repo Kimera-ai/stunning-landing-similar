@@ -2,12 +2,12 @@ import React from "react";
 
 const Logo = () => {
   return (
-    <div className="inline-block w-20"> {/* Using w-20 for small size */}
+    <div className="inline-block w-48"> {/* Changed from w-20 to w-48 for larger size */}
       <svg 
         version="1.2" 
         xmlns="http://www.w3.org/2000/svg" 
         viewBox="0 0 2835 777" 
-        className="logo-svg w-full h-auto" // Added w-full and h-auto to ensure proper scaling
+        className="logo-svg w-full h-auto"
       >
         <title>LOGO DUTY FREE _RED background</title>
         <defs>
