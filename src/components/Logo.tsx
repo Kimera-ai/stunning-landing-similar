@@ -2,7 +2,7 @@ import React from "react";
 
 const Logo = () => {
   return (
-    <div className="inline-block">
+    <div className="inline-block bg-brand-red p-2 rounded">
       <svg 
         version="1.0" 
         xmlns="http://www.w3.org/2000/svg"
