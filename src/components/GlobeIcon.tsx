@@ -2,7 +2,7 @@ import React from "react";
 
 const GlobeIcon = () => {
   return (
-    <div className="relative w-64 h-32 mx-auto mb-4">
+    <div className="relative w-48 h-24 mx-auto mb-4">
       <div className="absolute inset-0">
         <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 709 360" className="w-full h-full">
           <title>Vector Smart Object</title>
