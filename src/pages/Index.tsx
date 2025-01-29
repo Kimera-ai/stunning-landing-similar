@@ -29,7 +29,7 @@ const Index = () => {
           <h1 className="text-5xl font-bold tracking-wide mb-8">
             HAIR CARE
           </h1>
-          <h2 className="text-3xl font-bold mt-1" style={{ direction: "rtl" }}>
+          <h2 className="text-3xl font-bold" style={{ direction: "rtl" }}>
             מסביב לעולם!
           </h2>
         </div>
