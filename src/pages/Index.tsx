@@ -1,7 +1,6 @@
 import React from "react";
 import Logo from "@/components/Logo";
 import GlobeIcon from "@/components/GlobeIcon";
-import { Button } from "@/components/ui/button";
 
 const Index = () => {
   return (
@@ -35,16 +34,14 @@ const Index = () => {
           </h2>
         </div>
 
-        <Button 
-          asChild
+        <a 
+          href="https://booth.kimera.ai/event-set/ec9f7b54-7339-4faf-90ba-f12f54cbe3da"
           className="bg-brand-red text-white px-12 py-4 rounded-full text-xl font-bold flex items-center gap-2 mx-auto hover:bg-opacity-90 transition-all"
           style={{ direction: "rtl" }}
         >
-          <a href="https://booth.kimera.ai/event-set/ec9f7b54-7339-4faf-90ba-f12f54cbe3da">
-            <span>לחצו כאן כדי להתחיל</span>
-            <span>←</span>
-          </a>
-        </Button>
+          <span>לחצו כאן כדי להתחיל</span>
+          <span>←</span>
+        </a>
       </div>
     </div>
   );
