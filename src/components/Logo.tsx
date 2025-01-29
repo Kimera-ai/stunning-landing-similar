@@ -6,8 +6,8 @@ const Logo = () => {
       <svg 
         version="1.0" 
         xmlns="http://www.w3.org/2000/svg"
-        width="900.000000pt" 
-        height="261.000000pt" 
+        width="300.000000pt" 
+        height="87.000000pt" 
         viewBox="0 0 900.000000 261.000000"
         preserveAspectRatio="xMidYMid meet"
         className="text-white fill-current"
