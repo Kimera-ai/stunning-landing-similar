@@ -2,11 +2,11 @@ import React from "react";
 
 const GlobeIcon = () => {
   return (
-    <div className="relative w-24 h-12 mx-auto mb-4">
+    <div className="relative w-32 h-16 mx-auto mb-4">
       <div className="absolute inset-0">
         <svg
           viewBox="0 0 300 158"
-          className="w-full h-full"
+          className="w-full h-full text-brand-red"
           preserveAspectRatio="xMidYMid meet"
         >
           <g transform="translate(0,158) scale(0.05,-0.05)" fill="currentColor">
