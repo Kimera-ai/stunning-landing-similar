@@ -46,4 +46,8 @@
   color: white;
   fill: white;
   stroke: white;
+  * {
+    fill: white;
+    stroke: white;
+  }
 }
