@@ -8,7 +8,7 @@ const Index = () => {
       <div className="w-full max-w-lg mx-auto text-center">
         <Logo />
         
-        <div className="mt-16 mb-8 text-right">
+        <div className="mt-16 mb-8 text-center">
           <h2 className="text-2xl font-bold" style={{ direction: "rtl" }}>
             הדיוטי פרי מזמין אתכם לחוויית
           </h2>
