@@ -4,7 +4,13 @@ import GlobeIcon from "@/components/GlobeIcon";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#D3E4FD] via-[#E5DEFF] to-[#D6BCFA] flex flex-col items-center justify-center p-4">
+    <div 
+      className="min-h-screen flex flex-col items-center justify-center p-4 bg-cover bg-center bg-no-repeat"
+      style={{ 
+        backgroundImage: 'url("/lovable-uploads/17a8f2cb-825a-4da8-be4c-d807f9645f35.png")',
+        backgroundSize: 'cover'
+      }}
+    >
       <div className="w-full max-w-lg mx-auto text-center">
         <Logo />
         
