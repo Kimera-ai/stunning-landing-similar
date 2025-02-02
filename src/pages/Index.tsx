@@ -36,7 +36,7 @@ const Index = () => {
 
         <a 
           href="https://booth.kimera.ai/event-set/ec9f7b54-7339-4faf-90ba-f12f54cbe3da"
-          className="inline-block bg-brand-red text-white px-4 py-3 rounded-full text-2xl font-bold flex items-center justify-center gap-2 hover:bg-opacity-90 transition-all w-fit mx-auto"
+          className="inline-block bg-brand-red text-white px-8 py-4 rounded-full text-3xl font-bold flex items-center justify-center gap-2 hover:bg-opacity-90 transition-all w-fit mx-auto"
           style={{ direction: "rtl" }}
         >
           <span>לחצו כאן כדי להתחיל</span>
