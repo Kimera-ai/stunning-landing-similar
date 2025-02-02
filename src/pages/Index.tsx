@@ -11,7 +11,7 @@ const Index = () => {
         backgroundSize: 'cover'
       }}
     >
-      <div className="w-full max-w-6xl mx-auto text-center">
+      <div className="w-full max-w-6xl mx-auto text-center mt-32">
         <Logo />
         
         <div className="mt-12 mb-10 text-center">
