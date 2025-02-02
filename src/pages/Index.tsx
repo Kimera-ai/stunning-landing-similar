@@ -16,10 +16,7 @@ const Index = () => {
         
         <div className="mt-12 mb-10 text-center">
           <h2 className="text-5xl font-bold tracking-wider" style={{ direction: "rtl", letterSpacing: '0.02em', wordSpacing: '0.2em' }}>
-            הדיוטי פרי מזמין אתכם
-          </h2>
-          <h2 className="text-5xl font-bold tracking-wider" style={{ direction: "rtl", letterSpacing: '0.02em', wordSpacing: '0.2em' }}>
-            לחוויית
+            הדיוטי פרי מזמין אתכם לחוויית
           </h2>
         </div>
 
