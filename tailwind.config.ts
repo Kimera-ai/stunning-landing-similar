@@ -18,6 +18,12 @@ export default {
       },
     },
     extend: {
+      keyframes: {
+        breath: {
+          '0%, 100%': { transform: 'scale(1)' },
+          '50%': { transform: 'scale(1.05)' },
+        }
+      },
       colors: {
         "brand-red": "#ea384c",
         border: "hsl(var(--border))",
