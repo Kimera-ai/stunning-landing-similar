@@ -2,7 +2,7 @@ import React from "react";
 
 const Logo = () => {
   return (
-    <div className="inline-block w-64"> {/* Changed from w-48 to w-64 for larger size */}
+    <div className="inline-block w-[800px]"> {/* Increased from w-64 to w-[800px] for a much larger size */}
       <svg 
         version="1.2" 
         xmlns="http://www.w3.org/2000/svg" 
