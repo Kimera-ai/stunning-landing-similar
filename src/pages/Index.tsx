@@ -25,7 +25,7 @@ const Index = () => {
 
         <GlobeIcon />
 
-        <div className="mb-8">
+        <div className="mb-20">
           <h1 className="text-8xl font-bold tracking-wide mb-4">
             PERFECT
           </h1>
