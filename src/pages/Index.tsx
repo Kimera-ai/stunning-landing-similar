@@ -5,7 +5,7 @@ import GlobeIcon from "@/components/GlobeIcon";
 const Index = () => {
   return (
     <div 
-      className="min-h-screen flex flex-col items-center justify-center p-4 bg-cover bg-center bg-no-repeat"
+      className="min-h-screen flex flex-col items-center justify-center p-4 pt-32 bg-cover bg-center bg-no-repeat" // Added pt-32 for extra top padding
       style={{ 
         backgroundImage: 'url("/lovable-uploads/17a8f2cb-825a-4da8-be4c-d807f9645f35.png")',
         backgroundSize: 'cover'
